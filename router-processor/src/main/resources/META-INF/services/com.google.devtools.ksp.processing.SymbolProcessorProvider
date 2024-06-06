@@ -1,0 +1,3 @@
+com.pujh.router.processor.DestinationProcessorProvider
+com.pujh.router.processor.ListedProcessorProvider
+com.pujh.router.processor.GenerateInterfaceProcessorProvider
